@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/teste-front-duratex/static/css/main.7c0680f3.chunk.css",
+    "main.js": "/teste-front-duratex/static/js/main.34df9d01.chunk.js",
+    "main.js.map": "/teste-front-duratex/static/js/main.34df9d01.chunk.js.map",
+    "runtime~main.js": "/teste-front-duratex/static/js/runtime~main.d3d99b81.js",
+    "runtime~main.js.map": "/teste-front-duratex/static/js/runtime~main.d3d99b81.js.map",
+    "static/js/2.1d558f8f.chunk.js": "/teste-front-duratex/static/js/2.1d558f8f.chunk.js",
+    "static/js/2.1d558f8f.chunk.js.map": "/teste-front-duratex/static/js/2.1d558f8f.chunk.js.map",
+    "index.html": "/teste-front-duratex/index.html",
+    "precache-manifest.c63e006e42ffba6f305906599f1cfd2a.js": "/teste-front-duratex/precache-manifest.c63e006e42ffba6f305906599f1cfd2a.js",
+    "service-worker.js": "/teste-front-duratex/service-worker.js",
+    "static/css/main.7c0680f3.chunk.css.map": "/teste-front-duratex/static/css/main.7c0680f3.chunk.css.map"
+  }
+}
